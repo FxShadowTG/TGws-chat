@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/TG-WS-Chat.iml" filepath="$PROJECT_DIR$/.idea/TG-WS-Chat.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/TG-ws-chat.iml" filepath="$PROJECT_DIR$/.idea/TG-ws-chat.iml" />
+>>>>>>> ee37004 (first commit)
+    </modules>
+  </component>
+</project>
