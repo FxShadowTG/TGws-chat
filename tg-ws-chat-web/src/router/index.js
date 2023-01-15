@@ -5,10 +5,6 @@ const routes = [
     path: '/login',
     component: () => import('@/components/WebIndex.vue')
   },
-  {
-    path: '/register',
-    component: () => import('../components/WebIndex.vue')
-  }
 ];
 
 
